@@ -59,7 +59,7 @@ A comprehensive FastAPI-based medical appointment booking system with real-time 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/medical-appointment-system.git
+git clone https://github.com/vaibhav666-glitch/TeleBharat.git
 cd medical-appointment-system
 ```
 
